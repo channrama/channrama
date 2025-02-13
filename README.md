@@ -1,4 +1,4 @@
-#ಏನ್ರೀ ಮೀಡಿಯಾ ಏನ್ ನಿಮ್ದು ಮೀಡಿಯಾ!
+# ಏನ್ರೀ ಮೀಡಿಯಾ ಏನ್ ನಿಮ್ದು ಮೀಡಿಯಾ!
 
 # 💫 About Me:
 Not interested in coding, but I code because it challenges me.
