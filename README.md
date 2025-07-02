@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Not interested in coding, but I code because it challenges me.
+## Stay hard stay humble.
 
 
 
